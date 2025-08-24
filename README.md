@@ -124,4 +124,4 @@ $$
 ### t_Test_Assignment
 
 #### Code 
-- [06_t_Test_Assignment.ipynb]()
+- [06_t_Test_Assignment.ipynb](https://github.com/Tamiim-Iqbal/Simulation-and-Modeling/blob/main/06_t_Test_Assignment.ipynb)
