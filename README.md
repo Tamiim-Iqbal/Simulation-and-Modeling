@@ -292,3 +292,10 @@ p-value = 8.64 × 10⁻⁹ (very small)
 <h4>Conclusion</h4>
 
 - The two-sample t-test is a powerful method to compare means of two independent samples. Understanding variance assumptions and interpreting results correctly is crucial for data-driven decision-making.
+
+
+<h4>Code</h4>
+
+- [07_Two_Sample_t_Test(Pooled).ipynb](https://github.com/Tamiim-Iqbal/Simulation-and-Modeling/blob/main/07_Two_Sample_t_Test_(Pooled).ipynb)
+
+---
