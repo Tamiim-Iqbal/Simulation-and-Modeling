@@ -114,12 +114,14 @@ $$
 - Sample observations are independent
 
 <h4> Code </h4> 
+
 - [05_t_Test.ipynb](https://github.com/Tamiim-Iqbal/Simulation-and-Modeling/blob/main/05_t_Test.ipynb)
 
 <h4> t_Test_Assignment </h4>
 
 - [06_t_Test_Assignment.ipynb](https://github.com/Tamiim-Iqbal/Simulation-and-Modeling/blob/main/06_t_Test_Assignment.ipynb)
 
+--- 
 
 ### Two-Sample t-Test
 
